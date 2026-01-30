@@ -73,6 +73,7 @@ Work that made reasoning behavior explicit and connected language models to acti
 - [ReAct](04-reasoning-and-agents/react.md)
 - [DeepSeek-R1](04-reasoning-and-agents/deepseek-r1.md)
 - [Qwen3 Technical Report](04-reasoning-and-agents/qwen3.md)
+- [Agentic Design Patterns](https://drive.google.com/file/d/1-5ho2aSZ-z0FcW8W_jMUoFSQ5hTKvJ43/view) (needs notes)
 
 ---
 
